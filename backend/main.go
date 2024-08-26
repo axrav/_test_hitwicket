@@ -322,5 +322,3 @@ func initGame() {
 		}
 	}
 }
-
-// Helper functions for move validation, character movement, etc.
